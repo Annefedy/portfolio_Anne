@@ -1,0 +1,21 @@
+.wrapper-skills {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper-skills .skills-tec {
+    width: 430px;
+    margin-bottom: 40px;
+}
+
+.wrapper-skills .skills-tec:nth-child(odd) {
+    margin-right: 100px;
+    
+}
+
+.wrapper-skills .progress-bar {
+    width: 320px;
+}

@@ -1,0 +1,33 @@
+
+.main-section {
+    background-color: #179117;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #fff;
+}
+
+.main-section .main-title {
+    margin-bottom: 60px;
+
+}
+
+.main-section.-bgblack {
+    background-color: #000;
+}
+
+.main-section.-bdfirst {
+    border-color: #fff;
+}
+
+.main-second.-bgsecond {
+    background-color: #179117;
+}
+
+.main-section.-bdblack {
+    border-color: #000;
+}
+
+.main-section.-form {
+    background-color: #4c4c4c;
+    border-bottom: 10px solid #179117;
+}

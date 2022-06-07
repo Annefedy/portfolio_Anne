@@ -1,0 +1,20 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+    height: 280px;
+    box-shadow: 10px 10px 0px #ffffff;
+}
+
+.card-project.-marrom {
+    background-color:  #8b0e00bd;
+}
+
+.card-project.-verde {
+    background-color: rgb(0 135 255 / 56%);
+}
+
+.card-project.-azul {
+    background-color: #0000ff7a;
+}
