@@ -26,37 +26,6 @@ span {
 }
 
 
-.main-title {
-    font-family: 'press Start 2P', sans-serif;
-    font-size: 19px;
-    color: #179117;
-    text-shadow: 3px 3px 0px #000000;
-}
 
-.subtitle {
-    font-size: 17px;
-    font-family: 'Press Start 2P', sans-serif;
-    text-shadow: 3PX 3PX 0 #000;
-    color: #fff;
-}
-
-
-.main-title.-second {
-    color: #fff;
-    text-shadow: none;
-    text-align: center;
-    font-size: 30px;
-}
-
-.main-description {
-      color: #fff;
-      font-size: 30px;
-      font-weight: 300px;
-      line-height: 1.3;
-}
-
-.items-proj{
-    background-color:red;
-}
 
 

@@ -6,7 +6,22 @@
     cursor: pointer ;
 }
 
+.button-arrow .content {
+    display: none;
+
+}
+
 .button-arrow::before {
     content: '';
-    width: 10px;
+    display: block;
+    box-sizing: border-box;
+    width: 15x;
+    height: 15px;
+    border: 15px solid transparent;
+    border-left: 28px solid black;
+    transform: translateX(5px);
 }
+.button-arrow.-left::before {
+    transform: rotate(180deg) translateX(12px);
+}
+
